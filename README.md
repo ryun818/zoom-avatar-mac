@@ -28,7 +28,12 @@ brew install --cask obs
 
 1. OBS を起動
 2. 「仮想カメラ開始」→「仮想カメラ停止」→ OBS を閉じる
+
+![OBS 仮想カメラ開始](images/obs_virtual_camera.png)
+
 3. システム設定 → 一般 → ログイン項目と拡張機能 → カメラ拡張機能 → OBS を許可
+
+![カメラ拡張機能の設定](images/macos_camera_extension.png)
 
 ## 使い方
 
@@ -49,6 +54,8 @@ python live_portrait.py -i <写真ファイル>
 ### Zoom で使う
 
 Zoom → 設定 → ビデオ → カメラ → **OBS Virtual Camera** を選択
+
+![Zoom 設定](images/zoom_settings.png)
 
 ## オプション
 
