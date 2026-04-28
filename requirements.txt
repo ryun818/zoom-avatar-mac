@@ -1,0 +1,7 @@
+ailia
+opencv-python
+numpy
+pillow
+scikit-image
+scipy
+pyvirtualcam

@@ -1,0 +1,6 @@
+*.onnx
+*.onnx.prototxt
+venv/
+__pycache__/
+.env
+.DS_Store
