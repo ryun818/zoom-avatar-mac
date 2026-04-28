@@ -9,7 +9,7 @@ from skimage import transform as sk_trans
 import ailia
 
 # import original modules
-sys.path.append("../../util")
+sys.path.append(os.path.join(os.path.dirname(__file__), "util"))
 from arg_utils import get_base_parser, update_parser  # noqa
 from model_utils import check_and_download_models  # noqa
 from detector_utils import load_image  # noqa
