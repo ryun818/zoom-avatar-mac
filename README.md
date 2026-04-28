@@ -4,6 +4,8 @@
 
 Mac (Apple Silicon) + ailia SDK + LivePortrait + pyvirtualcam で構成。
 
+![ガイドプレビュー](images/guide_preview_mosaic.png)
+
 ## 必要環境
 
 - macOS (Apple Silicon M1/M2/M3/M4)
