@@ -40,7 +40,7 @@ Webカメラ → live_portrait.py (ailia SDK / M2 MPS GPU)
 ├── live_portrait.py          # メインスクリプト（改造済み）
 ├── utils_crop.py             # クロップユーティリティ
 ├── mask_template.png         # マスクテンプレート
-├── s6.jpg                    # サンプル画像
+├── avatar.jpg                    # サンプル画像
 ├── d0.mp4                    # サンプル動画
 ├── o.jpg                     # ユーザー画像
 ├── morshas.jpg               # ユーザー画像
@@ -122,7 +122,7 @@ python live_portrait.py -i <画像> [--driving <カメラID or 動画>]
 
 | オプション | デフォルト | 説明 |
 |---|---|---|
-| `-i`, `--input` | `s6.jpg` | 元画像（アバターの顔） |
+| `-i`, `--input` | `avatar.jpg` | 元画像（アバターの顔） |
 | `--driving` | `0` | Webカメラ番号 (0=内蔵) or 動画ファイル |
 | `--composite` | off | 駆動フレーム/元画像/生成フレームを並べて表示 |
 | `-e`, `--env_id` | `2` | GPU 環境 ID |

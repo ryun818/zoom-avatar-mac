@@ -67,7 +67,7 @@ MODEL_FM_LMK_PATH = "face_landmarks_detector.onnx.prototxt"
 REMOTE_PATH = "https://storage.googleapis.com/ailia-models/live_portrait/"
 REMOTE_FM_V2_PATH = "https://storage.googleapis.com/ailia-models/facemesh_v2/"
 
-IMAGE_PATH = "s6.jpg"
+IMAGE_PATH = "avatar.jpg"
 DRIVING_VIDEO_PATH = "0"
 MASK_PATH = "mask_template.png"
 
