@@ -4,6 +4,8 @@
 
 Mac (Apple Silicon) + ailia SDK + LivePortrait + pyvirtualcam で構成。
 
+**詳しい解説記事:** [Mac M2で写真1枚からZoomアバターを動かしたい — 無料ツール比較と構築記録 (Qiita)](https://qiita.com/ryun818/items/6dd10f7039a8684e5018)
+
 ![ガイドプレビュー](images/guide_preview_mosaic.png)
 
 ## 必要環境
